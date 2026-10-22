@@ -1,6 +1,6 @@
 ```
 mkdir -p ~/.agents/skills
-git clone https://github.com/xxooxxooxx/deploying-sing-box-vps/ ~/.agents/skills
+git clone https://github.com/xxooxxooxx/deploying-sing-box-vps/ ~/.agents/skills/deploying-sing-box-vps
 ```
 
 - 本地Ai Agent VPS需要先配置好SSH KEY登录-> **在VPSxx.xx.xx.xx部署sing-box**
