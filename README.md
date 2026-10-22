@@ -5,9 +5,7 @@
 
    ## 安装
 
-   ​```bash
    git clone https://github.com/xxxxxx/deploying-sing-box-vps ~/.agents/skills/deploying-sing-box-vps
-   ​```
 
    或直接对 AI 说：安装这个 skill `https://github.com/xxxxxx/deploying-sing-box-vps`
 
