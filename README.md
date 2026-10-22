@@ -5,10 +5,10 @@
    ## 安装
 
    ​```
-   git clone https://github.com/xxxxxx/deploying-sing-box-vps ~/.agents/skills/deploying-sing-box-vps
+   git clone https://github.com/xxooxxooxx/deploying-sing-box-vps ~/.agents/skills/deploying-sing-box-vps
    ​```
 
-   或直接对 AI 说：安装这个 skill `https://github.com/xxxxxx/deploying-sing-box-vps`
+   或直接对 AI 说：安装这个 skill `https://github.com/xxooxxooxx/deploying-sing-box-vps`
 
    ## 依赖
    VPS：systemd + iptables/ufw，以及 python3、openssl、qrencode、zbarimg。
