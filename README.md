@@ -4,7 +4,7 @@
 
    ## 安装
 
-   ​```bash
+   ​```
    git clone https://github.com/xxxxxx/deploying-sing-box-vps ~/.agents/skills/deploying-sing-box-vps
    ​```
 
