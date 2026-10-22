@@ -12,3 +12,6 @@
 
    ## 依赖
    VPS：systemd + iptables/ufw，以及 python3、openssl、qrencode、zbarimg。
+
+   ## 支持本地Ai Agent 
+   需要先配置好SSH KEY自动登录
