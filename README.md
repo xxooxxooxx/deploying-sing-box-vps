@@ -15,3 +15,7 @@
 
    ## 支持本地Ai Agent 
    需要先配置好SSH KEY自动登录
+
+   ##  提示词
+   本地： 部署sing-box  
+   远程： 在vps xx.xx.xx.xx部署sing-box
